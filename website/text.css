@@ -1,0 +1,103 @@
+.navigation-title {
+  font-family: "Montserrat";
+  color: #ffffff;
+  text-shadow: var(--secondary) 0 0 1vh;
+  font-size: 4vh;
+}
+
+.navigation-link {
+  font-family: "Montserrat";
+  color: #ffffff;
+  text-shadow: var(--secondary) 0 0 1vh;
+  font-size: 3vh;
+  text-decoration: none;
+  margin-left: 1vw;
+  transition: color 0.3s ease-in-out;
+}
+
+.navigation-link:hover {
+  color: var(--secondary);
+}
+
+.content-title {
+  font-size: 10vh;
+  font-family: "Fraset";
+  color: #ffffff;
+}
+
+.AI {
+  color: var(--primary);
+  transition: color 0.3s ease-in-out;
+}
+
+.AI:hover {
+  color: #4260b3;
+}
+
+.gpt-link {
+  color: var(--primary);
+  transition: color 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.gpt-link:hover {
+  color: #4260b3;
+}
+
+.red {color: #ff6161ff;}
+.blue {color: #61a5ffff;}
+.yellow {color: #ffea61ff;}
+.green {color: #32a800ff;}
+
+.about-title {
+  display: block;
+  font-size: 8vh;
+  font-family: "Fraset";
+  color: var(--primary);
+}
+
+.about-text {
+  display: block;
+  width: 100%;
+  color: #ffffff;
+  margin-top: 2vh;
+  font-size: 4vh;
+  font-family: "JUST Sans";
+}
+
+.procon-text{
+  display: block;
+  width: 100%;
+  color: #ffffff;
+  margin-top: 2vh;
+  font-size: 4vh;
+  font-family: "JUST Sans";  
+}
+
+.-title {
+  display: block;
+  font-size: 8vh;
+  font-family: "Fraset";
+  color: var(--primary);
+}
+
+.unique-title{
+  display: block;
+  font-size: 8vh;
+  font-family: "Fraset";
+  color: var(--primary);
+}
+
+.pro-title{
+  font-family: "Montserrat";
+  color: #ffffff;
+  text-shadow: var(--secondary) 0 0 1vh;
+  font-size: 4vh;  
+}
+
+.con-title{
+  font-family: "Montserrat";
+  color: #ffffff;
+  text-shadow: var(--secondary) 0 0 1vh;
+  font-size: 4vh;  
+}
