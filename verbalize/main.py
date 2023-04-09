@@ -14,10 +14,10 @@ import gtts
 import sys
 import os
 
-DEEPGRAM_API_KEY = "77e029c585bfcf55caa78ce17f073bd2fe933a49"
-token = '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'
-account_sid = 'ACf0a27a867c2a3913ff1901c2a0908d0c'
-auth_token = 'bda8e5e2c9890eea4a877fc54669a5e5'
+DEEPGRAM_API_KEY = ""
+token = ''
+account_sid = ''
+auth_token = ''
 
 model = 'text-davinci-003'
 command_key = 'hey'
