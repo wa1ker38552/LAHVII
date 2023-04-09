@@ -1,5 +1,4 @@
 import speech_recognition as sr
-import twilio
 from twilio.rest import Client
 from pygame import mixer
 import webbrowser
@@ -8,10 +7,12 @@ import subprocess
 import requests
 import pyaudio
 import asyncio
+import twilio
 import json
 import time
 import gtts
 import os
+
 
 DEEPGRAM_API_KEY = ""
 token = ''
